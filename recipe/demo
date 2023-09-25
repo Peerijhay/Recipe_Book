@@ -1,0 +1,24 @@
+.bible-verses-2 {
+      animation-delay: 15s;
+      animation-timing-function: ease-in-out;
+      
+    }
+    
+    .bible-verses-3 {
+      animation-delay: 25s;
+      animation-timing-function: ease-in-out;
+   
+    }
+
+    
+  <div class="bible-verses bible-verses-2">
+  <p>Romans 8:28</p>
+  <p>And we know that in all things God works for the good of those who love him, who have been called according to his purpose.</p>
+</div>
+
+<div class="bible-verses bible-verses-3">
+  <p>Ephesians 2:8-9</p>
+  <p>For it is by grace you have been saved, through faith—and this is not your own doing; it is the gift of God—not a result of works, so that no one may boast.</p>
+</div> 
+
+
